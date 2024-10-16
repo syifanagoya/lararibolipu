@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lararibolipu.pages.dev/sitemap.xml
